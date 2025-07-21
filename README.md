@@ -1,6 +1,6 @@
 # webexec
 
-**webexec** is a lightweight, configurable webhook server written in Go that securely **executes system commands via webhooks**, typically used with services like GitHub or GitLab.
+**webexec** is a simple webhook server written in Go that securely **executes system commands via webhooks**, typically used with services like GitHub or GitLab.
 
 ---
 
